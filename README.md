@@ -1,4 +1,4 @@
-# GSCore: efficient radiance field rendering via architectural support for 3d gaussian splatting
+## CODE IMPLEMENTATION: 3DGS accelerator code in PyTorch
 💻 "Implementing the GSCore in PyTorch"
 
 This github is PyTorch-based code for GSCore: efficient radiance field rendering via architectural support for 3d gaussian splatting !
