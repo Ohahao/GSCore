@@ -1,0 +1,18 @@
+{
+    "mac_per_tile": 0,
+    "saved_gaussians_per_tile": 0,
+    "gaussians_per_tile": 11801,
+    "tile_coords": [
+        32,
+        16
+    ],
+    "avg_gaussians_per_tile": 16767.42644135189,
+    "max_gaussians_per_tile": 103771,
+    "macs_per_tile": 47204,
+    "saved_rate_percent": 40.37,
+    "total_blending_operations": 8482406,
+    "quality_metrics": {
+        "PSNR": 2.711503744125366,
+        "LPIPS": 1.010392189025879
+    }
+}

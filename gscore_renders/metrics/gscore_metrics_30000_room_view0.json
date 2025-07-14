@@ -1,0 +1,40 @@
+{
+    "gaussians_per_tile": [
+        799,
+        955
+    ],
+    "tile_coords": [
+        [
+            32,
+            16
+        ],
+        [
+            48,
+            64
+        ]
+    ],
+    "tile_idxs": [
+        102,
+        403
+    ],
+    "mac_per_tile": [
+        3196,
+        3820
+    ],
+    "avg_gaussians_per_tile": 540.9197014925373,
+    "max_gaussians_per_tile": 151508,
+    "macs_per_tile": 0,
+    "avg_saved_gaussians": 138.34296028880865,
+    "avg_saved_rate": 16.33260798292875,
+    "first_saved_gaussians": 660,
+    "first_saved_rate": 3.1603141160697183,
+    "first_terminated_coords": [
+        0,
+        0
+    ],
+    "total_blending_operations": 15831,
+    "quality_metrics": {
+        "PSNR": 27.152315139770508,
+        "LPIPS": 0.19878295063972473
+    }
+}
