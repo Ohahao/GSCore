@@ -1,5 +1,5 @@
 ## CODE IMPLEMENTATION: 3DGS accelerator code in PyTorch
-💻 "Implementing the GSCore in PyTorch"
+💻 *"Implementing the GSCore in PyTorch"*
 
 This github is PyTorch-based code for following paper !
 
